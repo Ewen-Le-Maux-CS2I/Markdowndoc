@@ -2,9 +2,9 @@
 icon: simple/markdown
 ---
 
-# Markdown in 5min
+# Le langage Markdown
 
-## Headers
+## Les titres
 ```
 # H1 Header
 ## H2 Header
@@ -14,7 +14,7 @@ icon: simple/markdown
 ###### H6 Header
 ```
 
-## Text formatting
+## Format de text
 ```
 **bold text**
 *italic text*
@@ -23,7 +23,7 @@ icon: simple/markdown
 `inline code`
 ```
 
-## Links and images
+## Liens et Images
 ```
 [Link text](https://example.com)
 [Link with title](https://example.com "Hover title")
@@ -31,7 +31,7 @@ icon: simple/markdown
 ![Image with title](image.jpg "Image title")
 ```
 
-## Lists
+## Listes
 ```
 Unordered:
 - Item 1
@@ -44,14 +44,14 @@ Ordered:
 3. Third item
 ```
 
-## Blockquotes
+## Blocs ne notes
 ```
 > This is a blockquote
 > Multiple lines
 >> Nested quote
 ```
 
-## Code blocks
+## Blocs de code
 ````
 ```javascript
 function hello() {
@@ -60,7 +60,7 @@ function hello() {
 ```
 ````
 
-## Tables
+## Tableau
 ```
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
@@ -68,7 +68,7 @@ function hello() {
 | Row 2    | Data     | Data     |
 ```
 
-## Horizontal rule
+## Regles Horizontale
 ```
 ---
 or
@@ -77,19 +77,19 @@ or
 ___
 ```
 
-## Task lists
+## List de tâches
 ```
 - [x] Completed task
 - [ ] Incomplete task
 - [ ] Another task
 ```
 
-## Escaping characters
+## Charactère d'échappement
 ```
 Use backslash to escape: \* \_ \# \`
 ```
 
-## Line breaks
+## Saut de ligne
 ```
 End a line with two spaces  
 to create a line break.
