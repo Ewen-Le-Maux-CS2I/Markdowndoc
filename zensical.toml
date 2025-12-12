@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Documentation"
+site_name = "Documentation Markdown"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -45,7 +45,6 @@ Copyright &copy; 2025 The authors
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "Get started" = "index.md" },
   { "Le langage Markdown" = [
     { "Introduction" = "markdown.md" },
     { "Les titres" = "titres.md" },

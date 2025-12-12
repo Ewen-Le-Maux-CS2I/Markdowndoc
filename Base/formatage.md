@@ -1,5 +1,5 @@
 ---
-icon: material/format-text
+icon: material/case-sensitive
 ---
 
 # Format de texte
