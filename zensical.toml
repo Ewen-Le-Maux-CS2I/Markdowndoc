@@ -61,6 +61,7 @@ nav = [
   ] },
   { "Zensical" = [
     { "Introduction" = "zensical.md" },
+    { "Structure du projet" = "z-structure.md" },
     { "Installation & Setup" = "z-setup.md" },
     { "Navigation" = "z-navigation.md" },
     { "Thème & Palette" = "z-theme.md" },
