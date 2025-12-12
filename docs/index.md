@@ -4,7 +4,7 @@ icon: lucide/rocket
 
 # Get started
 
-For full documentation visit [zensical.org](https://zensical.org/docs/).
+Pour une doc complète :  [zensical.org](https://zensical.org/docs/).
 
 ## Commands
 
